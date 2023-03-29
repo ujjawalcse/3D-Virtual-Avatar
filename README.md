@@ -1,7 +1,7 @@
 # 3D-Virtual-Avatar
   *This repository includes some of my works done in 3D Virtual Avatar Reconstruction field*
 
-## Full Human Body Reconstruction and Animation using single image :
+## Full Human Body Reconstruction and Animation using single image/Video :
 
 + Used PIXIE along with DECA to reconstruct complete 3D body model with detailed facial texture
   and pre-assigned body texture.
